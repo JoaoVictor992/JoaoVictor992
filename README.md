@@ -1,8 +1,6 @@
-## Oii me chamou João Victor
+## Olá me chamo João Victor
 
-- 🔭 Estudando Ciências da Computação
-- 🌱 Aprendendo banco de dados
-- 😄 Pronouns: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/joaovictor992">
