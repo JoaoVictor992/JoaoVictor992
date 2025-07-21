@@ -9,7 +9,7 @@
 
 ### 🎓 Sobre mim
 
-Sou graduado em *Ciência da Computação, atualmente focado em desenvolvimento **Front-End, com planos de migrar futuramente para o **Full Stack*.  
+Sou graduado em *Ciência da Computação*, atualmente focado em desenvolvimento *Front-End*, com planos de migrar futuramente para o *Full Stack*.  
 
 Estou construindo meu portfólio com base em projetos práticos e atualizados, usando ferramentas modernas como *JavaScript ES6+, React, Tailwind CSS e Figma*.
 
