@@ -1,4 +1,68 @@
-## Olá me chamo João Victor
+<h1 align="center">Olá! Eu sou o Juao 👨‍💻</h1>
+
+<p align="center">
+  Desenvolvedor front-end em formação contínua, com graduação em Ciências da Computação e muito café na veia ☕.
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Sou formado em *Ciências da Computação, apaixonado por tecnologia, design de interfaces e transformar ideias em código. Atualmente, estou focado em desenvolver minhas habilidades como **desenvolvedor front-end, com objetivo de me tornar **full stack* no futuro próximo.
+
+Busco sempre aprender na prática, criando projetos reais, colaborando e me desafiando todos os dias.
+
+---
+
+### 📚 Atualmente estudando
+
+🧠 *JavaScript moderno* (ES6+)<br>
+⚛ *React.js* com hooks, router e Firebase<br>
+🌐 *HTML5, CSS3 e Tailwind CSS*<br>
+🎨 *Design de interfaces com Figma para Devs*<br>
+🔧 *Git e GitHub para versionamento*<br>
+📦 *Construção de portfólio e deploy com Netlify/Vercel*
+
+---
+
+### 🛠 Tecnologias que domino
+
+- HTML5, CSS3, JavaScript
+- Git, GitHub
+- Figma (interpretação de UI)
+- Tailwind CSS
+- React (em processo de aprofundamento)
+- Node.js (básico)
+
+---
+
+### 📁 Meus projetos
+
+Confira os repositórios públicos aqui no perfil — estou atualizando constantemente com os projetos que desenvolvo durante os cursos e estudos pessoais.
+
+Alguns deles incluem:
+
+- Calculadoras em JS
+- Mini apps com DOM
+- Layouts recriados com Figma + Tailwind
+- Aplicações React com Firebase (em andamento)
+
+---
+
+### 💼 Buscando oportunidade
+
+Atualmente estou buscando minha primeira vaga como *desenvolvedor front-end júnior*. Tenho disponibilidade imediata e estou comprometido com a entrega de soluções limpas, responsivas e de fácil manutenção.
+
+---
+
+### 📬 Contato
+
+Você pode falar comigo pelo e-mail: *joaovictor992@gmail.com*  
+Ou me encontrar no LinkedIn: *https://www.linkedin.com/in/joao-victor992/*
+
+---
+
+📌 *Obrigado por visitar meu perfil!* Me acompanhe nos commits — tem sempre novidade pintando por aqui 🚀
 
 
 <!--
