@@ -1,69 +1,68 @@
-<h1 align="center">Olá! Eu sou o Juao 👨‍💻</h1>
+<h1 align="center">Fala! Eu sou o João 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor front-end em formação contínua, com graduação em Ciências da Computação e muito café na veia ☕.
+  Desenvolvedor front-end em formação constante.<br>
+  Apaixonado por criar experiências bonitas, funcionais e inteligentes na web.
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🎓 Sobre mim
 
-Sou formado em *Ciências da Computação, apaixonado por tecnologia, design de interfaces e transformar ideias em código. Atualmente, estou focado em desenvolver minhas habilidades como **desenvolvedor front-end, com objetivo de me tornar **full stack* no futuro próximo.
+Sou graduado em *Ciência da Computação, atualmente focado em desenvolvimento **Front-End, com planos de migrar futuramente para o **Full Stack*.  
 
-Busco sempre aprender na prática, criando projetos reais, colaborando e me desafiando todos os dias.
-
----
-
-### 📚 Atualmente estudando
-
-🧠 *JavaScript moderno* (ES6+)<br>
-⚛ *React.js* com hooks, router e Firebase<br>
-🌐 *HTML5, CSS3 e Tailwind CSS*<br>
-🎨 *Design de interfaces com Figma para Devs*<br>
-🔧 *Git e GitHub para versionamento*<br>
-📦 *Construção de portfólio e deploy com Netlify/Vercel*
+Estou construindo meu portfólio com base em projetos práticos e atualizados, usando ferramentas modernas como *JavaScript ES6+, React, Tailwind CSS e Figma*.
 
 ---
 
-### 🛠 Tecnologias que domino
+### 📚 Estudando atualmente
 
-- HTML5, CSS3, JavaScript
-- Git, GitHub
-- Figma (interpretação de UI)
-- Tailwind CSS
-- React (em processo de aprofundamento)
-- Node.js (básico)
-
----
-
-### 📁 Meus projetos
-
-Confira os repositórios públicos aqui no perfil — estou atualizando constantemente com os projetos que desenvolvo durante os cursos e estudos pessoais.
-
-Alguns deles incluem:
-
-- Calculadoras em JS
-- Mini apps com DOM
-- Layouts recriados com Figma + Tailwind
-- Aplicações React com Firebase (em andamento)
+- *JavaScript moderno (ES6+)*
+- *React com Hooks, Context API, Firebase e Router*
+- *HTML5, CSS3 e Tailwind CSS*
+- *Git e GitHub para versionamento*
+- *Figma para Desenvolvedores*
 
 ---
 
-### 💼 Buscando oportunidade
+### 💡 Projetos em destaque
 
-Atualmente estou buscando minha primeira vaga como *desenvolvedor front-end júnior*. Tenho disponibilidade imediata e estou comprometido com a entrega de soluções limpas, responsivas e de fácil manutenção.
+✅ Calculadora de IMC com JS  
+✅ Layouts responsivos com Tailwind CSS  
+✅ Mini portfólio pessoal (em andamento)  
+✅ Aplicações React com autenticação e Firestore (em breve!)
+
+> Acesse os repositórios para ver o código e acompanhar meu progresso real, dia após dia.
+
+---
+
+### 🛠 Habilidades técnicas
+
+- *Linguagens:* JavaScript, HTML, CSS
+- *Frameworks e bibliotecas:* React (Hooks, Router), Tailwind CSS
+- *Ferramentas:* Git, GitHub, Figma, VSCode
+- *Outros:* Firebase (em estudo), Node.js básico, lógica de programação
+
+---
+
+### 💼 Em busca de oportunidade
+
+Estou buscando minha primeira oportunidade como *Desenvolvedor Front-End Júnior*.  
+Tenho disponibilidade imediata e muita vontade de aprender, evoluir e contribuir com projetos reais.  
+
+Se quiser bater um papo técnico ou conhecer melhor meu código, bora conversar!
 
 ---
 
 ### 📬 Contato
 
-Você pode falar comigo pelo e-mail: *joaovictor992@gmail.com*  
-Ou me encontrar no LinkedIn: *https://www.linkedin.com/in/joao-victor992/*
+📧 joaovictormoura992@gmail.com 
+🔗 https://www.linkedin.com/in/joao-victor992/
+📁 Em breve: Portfólio online!
 
 ---
 
-📌 *Obrigado por visitar meu perfil!* Me acompanhe nos commits — tem sempre novidade pintando por aqui 🚀
-
+Obrigado por visitar meu perfil e acompanhar minha jornada! 🚀
 
 <!--
 <div align="center">
